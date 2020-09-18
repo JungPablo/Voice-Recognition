@@ -1,6 +1,6 @@
 #######################################################################################
-# Draw words module with turble
-# This Module draw 'a' to 'z' letters with the space ' ' for separation
+# Draw words module with turtle
+# This Module draw 'a' to 'z' letters with the space ' ' for separation, etc
 #
 # Created by Yeun Jae, Jung in September of 2020 (Barcelona, Spain)
 # Contact
